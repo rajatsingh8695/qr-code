@@ -18,9 +18,10 @@ namespace QrCodeGeneratorand_Reader
 {
     public partial class QCCode : System.Web.UI.Page
     {
+        // comment for testing Branch status in git  fgdtryhrt6ujgyk
         string QCText1;
         string imagePath;
-        private System.Windows.Forms.Timer timer1;
+        //private System.Windows.Forms.Timer timer1;
         
         protected void Page_Load(object sender, EventArgs e)
         {
